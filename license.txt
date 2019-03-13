@@ -1,0 +1,5 @@
+DefaultGrid Texture Pack
+by David G (kestral246@gmail.com)
+
+License for code: LGPL-2.1
+License for textures and all artwork: CC-By-SA-4.0
