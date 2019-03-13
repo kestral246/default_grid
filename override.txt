@@ -2,12 +2,16 @@ default:acacia_wood all default_acacia_wood.png^grid.png
 default:aspen_wood all default_aspen_wood.png^grid.png
 default:brick all default_brick.png^grid.png
 default:bronzeblock all default_bronze_block.png^grid.png
+default:cave_ice all default_ice.png^grid.png
 default:clay all default_clay.png^grid.png
 default:coalblock all default_coal_block.png^grid.png
 default:cobble all default_cobble.png^grid.png
 default:copperblock all default_copper_block.png^grid.png
 default:coral_brown all default_coral_brown.png^grid.png
+default:coral_cyan all default_coral_skeleton.png^grid.png
+default:coral_green all default_coral_skeleton.png^grid.png
 default:coral_orange all default_coral_orange.png^grid.png
+default:coral_pink all default_coral_skeleton.png^grid.png
 default:coral_skeleton all default_coral_skeleton.png^grid.png
 default:desert_cobble all default_desert_cobble.png^grid.png
 default:desert_sand all default_desert_sand.png^grid.png
@@ -58,6 +62,7 @@ default:sand all default_sand.png^grid.png
 default:sandstone all default_sandstone.png^grid.png
 default:sandstone_block all default_sandstone_block.png^grid.png
 default:sandstonebrick all default_sandstone_brick.png^brick.png
+default:sand_with_kelp all default_sand.png^grid.png
 default:silver_sand all default_silver_sand.png^grid.png
 default:silver_sandstone all default_silver_sandstone.png^grid.png
 default:silver_sandstone_block all default_silver_sandstone_block.png^grid.png
