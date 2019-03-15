@@ -32,6 +32,9 @@ default:dirt_with_dry_grass top default_dry_grass.png^grid.png
 default:dirt_with_grass bottom default_dirt.png^grid.png
 default:dirt_with_grass sides default_dirt.png^default_grass_side.png^grid.png
 default:dirt_with_grass top default_grass.png^grid.png
+default:dirt_with_grass_footsteps bottom default_dirt.png^grid.png
+default:dirt_with_grass_footsteps sides default_dirt.png^default_grass_side.png^grid.png
+default:dirt_with_grass_footsteps top default_grass.png^default_footprint.png^grid.png
 default:dirt_with_rainforest_litter bottom default_dirt.png^grid.png
 default:dirt_with_rainforest_litter sides default_dirt.png^default_rainforest_litter_side.png^grid.png
 default:dirt_with_rainforest_litter top default_rainforest_litter.png^grid.png
@@ -48,7 +51,7 @@ default:meselamp all default_meselamp.png^grid.png
 default:mossycobble all default_mossycobble.png^grid.png
 default:obsidian all default_obsidian.png^grid.png
 default:obsidian_block all default_obsidian_block.png^grid.png
-default:obsidian_brick all default_obsidian_brick.png^brick.png
+default:obsidianbrick all default_obsidian_brick.png^brick.png
 default:obsidian_glass all default_obsidian_glass.png^grid.png
 default:permafrost all default_permafrost.png^grid.png
 default:permafrost_with_moss bottom default_permafrost.png^grid.png
@@ -84,6 +87,7 @@ default:stone_with_mese all default_stone.png^default_mineral_mese.png^grid.png
 default:stone_with_tin all default_stone.png^default_mineral_tin.png^grid.png
 default:tinblock all default_tin_block.png^grid.png
 default:wood all default_wood.png^grid.png
+
 farming:desert_sand_soil all farming_desert_sand_soil.png^grid.png
 farming:desert_sand_soil_wet sides farming_desert_sand_soil_wet_side.png^grid.png
 farming:desert_sand_soil_wet top farming_desert_sand_soil_wet.png^grid.png
@@ -94,6 +98,7 @@ farming:soil_wet bottom default_dirt.png^grid.png
 farming:soil_wet sides default_dirt.png^farming_soil_wet_side.png^grid.png
 farming:soil_wet top default_dirt.png^farming_soil_wet.png^grid.png
 farming:straw all farming_straw.png^grid.png
+
 wool:black all wool_black.png^grid.png
 wool:blue all wool_blue.png^grid.png
 wool:brown all wool_brown.png^grid.png
